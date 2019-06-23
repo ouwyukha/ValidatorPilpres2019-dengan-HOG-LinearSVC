@@ -1,0 +1,9 @@
+My latest working kpu situng scraper is 'newScrape-v2.1-NightBuild.py', (it's) sufficient enough to pull C1-PPWPs and summary every TPS, with condition fast and stable connection.
+
+This scraper needs webdriver (chrome) and some modules to works. In addition to download C1-PPWPs, we need to use 'c.pem' as reliable SSL certificate because requests(module) couldn't get an access without it.
+
+The results will be stored in 'hasil' folder and if an error occurred, program will add a log in 'error' folder.
+
+And the last but very important, 'watcher.py' is a watch dog that keeps 'newScrape-v2.1-NightBuild.py' running.
+
+Note: the scripts may be personal, please take a look on inputs and outputs before run the scripts!
