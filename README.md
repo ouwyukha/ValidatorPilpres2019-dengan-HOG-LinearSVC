@@ -43,13 +43,7 @@ Classifier
 Classifier yang digunakan adalah Linear Support Vector Classification, karena keterbatasan hardware yang mengurungkan saya mencoba classifier lain seperti Stochastic Gradient Descent Classifier atau Neural Networks.
 
 Testing & Akurasi
-Menggunakan 2199 testing data (200 data tiap digit), akurasi tertinggi diperoleh dari ppc=(4, 4), cpb=(8, 8).
-Pixels_per_cell	  Cells_per_block   	Accuracy
-(2, 2)	          (8, 8)	            0.9358799454297408
-(2, 2)	          (16, 16)	          0.9540700318326512
-(4, 4)	          (4, 4)	            0.9586175534333788
-(4, 4)	          (8, 8)	            0.9618008185538881
-(8, 8)	          (4, 4)	            0.9477035015916325
+Menggunakan 2199 testing data (200 data tiap digit), akurasi tertinggi diperoleh dari ppc=(4, 4), cpb=(8, 8), dengan akurasi 0.9618008185538881.
 
 Testing Dunia Nyata
 Walaupun classifier mendapat skor tinggi saat testing menggunakan 2199 testing data, nyatanya hanya berkisar 75-90%. Hal ini diakibatkan proses ekstrak angka dari form C1 yang kaku.
@@ -68,14 +62,14 @@ RAW Dataset
 https://drive.google.com/file/d/1HY1pI8rn60tfArCIkP9A9eM_yab3SKRe/view?usp=sharing
 
 Referensi
-https://pemilu2019.kpu.go.id/#/ppwp/hitung-suara/
-https://selenium-python.readthedocs.io/api.html
-https://blog.chromium.org/2011/05/remote-debugging-with-chrome-developer.html
-https://www.programcreek.com/python/example/89830/win32gui.DestroyWindow
-https://www.learnopencv.com/image-alignment-feature-based-using-opencv-c-python/
-https://stackoverflow.com/questions/50759678/cropping-greyscale-images-within-larger-images-using-opencv-and-python/50760599
-https://github.com/bikz05/digit-recognition
-https://www.learnopencv.com/histogram-of-oriented-gradients/
-https://tel.archives-ouvertes.fr/tel-00390303/file/NavneetDalalThesis.pdf
-https://scikit-image.org/docs/dev/auto_examples/features_detection/plot_hog.html
-https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html#sklearn.svm.LinearSVC
+- https://pemilu2019.kpu.go.id/#/ppwp/hitung-suara/
+- https://selenium-python.readthedocs.io/api.html
+- https://blog.chromium.org/2011/05/remote-debugging-with-chrome-developer.html
+- https://www.programcreek.com/python/example/89830/win32gui.DestroyWindow
+- https://www.learnopencv.com/image-alignment-feature-based-using-opencv-c-python/
+- https://stackoverflow.com/questions/50759678/cropping-greyscale-images-within-larger-images-using-opencv-and-python/50760599
+- https://github.com/bikz05/digit-recognition
+- https://www.learnopencv.com/histogram-of-oriented-gradients/
+- https://tel.archives-ouvertes.fr/tel-00390303/file/NavneetDalalThesis.pdf
+- https://scikit-image.org/docs/dev/auto_examples/features_detection/plot_hog.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html#sklearn.svm.LinearSVC
