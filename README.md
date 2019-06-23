@@ -1,12 +1,9 @@
-ValidatorPilpres2019-dengan-HOG-LinearSVC / VSP-2019
-adalah validator hasil hitung suara Pemilu Presiden &amp; Wakil Presiden RI 2019 pada website pemilu2019.kpu.go.id berdasarkan form C1 yang terlampir. Pembuatan aplikasi yang berbasis Python 3.6 ini dilatarbelakangi tingginya kesalahan input oleh pihak KPU sehingga menurunkan tingkat kepercayaan masyarakat kepada instansi Pemerintah. Oleh karena itu, diperlukan validator yang bekerja instan dan akurat dalam memvalidasi data yang masuk.datorPilpres2019-dengan-HOG-validator yang bekerja instan dan akurat dalam memvalidasi data yang masuk.
-
 Validator Situng Pilpres 2019 (VSP-2019)
 adalah validator hasil hitung suara Pemilu Presiden & Wakil Presiden RI 2019 pada website pemilu2019.kpu.go.id berdasarkan form C1 yang terlampir. Pembuatan aplikasi yang berbasis Python 3.6 ini dilatarbelakangi tingginya kesalahan input oleh pihak KPU sehingga menurunkan tingkat kepercayaan masyarakat kepada instansi Pemerintah. Oleh karena itu, diperlukan validator yang bekerja instan dan akurat dalam memvalidasi data yang masuk.
 
 Creator
-2101690774 - Yukha Dharmeswara
-2101696645 – Calvin Hartanto Honggare
+- 2101690774 - Yukha Dharmeswara
+- 2101696645 – Calvin Hartanto Honggare
 
 Requirements
 Tidak ada versi spesifik, silahkan install versi terbaru, let deprecated be deprecated.
