@@ -10,17 +10,17 @@ Creator
 
 Requirements
 Tidak ada versi spesifik, silahkan install versi terbaru, let deprecated be deprecated.
-	chromedriver : http://chromedriver.chromium.org/
-	selenium : https://pypi.org/project/selenium/
-	scikit-image : https://pypi.org/project/scikit-image/
-	numpy : https://pypi.org/project/numpy/
-	scikit-learn : https://pypi.org/project/scikit-learn/
-	opencv : https://pypi.org/project/opencv-python/
-	joblib : https://pypi.org/project/joblib/
-	pyqt5 : https://pypi.org/project/pyqt5/
-	win32gui : https://pypi.org/project/win32gui/
-	keyboard : https://pypi.org/project/keyboard/
-	psutil : https://pypi.org/project/psutil/
+- chromedriver : http://chromedriver.chromium.org/
+- selenium : https://pypi.org/project/selenium/
+- scikit-image : https://pypi.org/project/scikit-image/
+- numpy : https://pypi.org/project/numpy/
+- scikit-learn : https://pypi.org/project/scikit-learn/
+- opencv : https://pypi.org/project/opencv-python/
+- joblib : https://pypi.org/project/joblib/
+- pyqt5 : https://pypi.org/project/pyqt5/
+- win32gui : https://pypi.org/project/win32gui/
+- keyboard : https://pypi.org/project/keyboard/
+- psutil : https://pypi.org/project/psutil/
 
 Penggunaan Aplikasi
 Penggunaan VSP-2019 sangatlah mudah, anda perlu mengklik tombol Browse untuk memilih TPS yang ingin dicek, jika anda sudah berada pada halaman TPS yang diinginkan, tekan tombol “Shift” pada Keyboard anda. Jika data TPS telah dimuat, anda tinggal mengklik tombol Compare untuk melaksanakan proses validasi. Aplikasi akan memunculkan hasil validasi pada Kolom Log (elemen no. 2 pada gambar di bawah).
