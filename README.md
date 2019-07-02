@@ -8,6 +8,7 @@ Creator
 Requirements
 Tidak ada versi spesifik, silahkan install versi terbaru, let deprecated be deprecated.
 - chromedriver : http://chromedriver.chromium.org/
+- requests : https://pypi.org/project/requests/
 - selenium : https://pypi.org/project/selenium/
 - scikit-image : https://pypi.org/project/scikit-image/
 - numpy : https://pypi.org/project/numpy/
